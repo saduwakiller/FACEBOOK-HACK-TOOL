@@ -880,11 +880,11 @@ def main():
 	elif pilih == "p" or pilih == "P":
 		print """
 	Tittle\t  : Facebook Security Hack
-	Coder\t   : Sandaruwan Jayalath Katugampola
-	Github\t  : https://github.com/saduwakiller
-	
+	Coder\t  : Afghan (rafi)
+	Github\t  : https://github.com/rafitricker
+	WebSite  : https://rafitricker.blogsky.com
 		
-	(C) Copyright EDIT 2020 Sandaruwan
+	(C) Copyright EDIT 2019 By MARSHAL RAFI 
 	 	 """
 	 	raw_input( W+R+"[!]"+W+" Press enter to menu ...")
 	 	os.system('clear')
